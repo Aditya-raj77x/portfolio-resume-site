@@ -11,6 +11,8 @@ i have also added some of my social handels so if anyone wanna contect me
 
 i have also atteched a copy of resume so if some companies happend to check it they can get my resume ..
 
+i have added some of my highlighted projects 
+so if find them intresting i have also atteched github repo link so you can check them out too  
 ## [SEE IT LIVE](https://portfolio-resume-site.vercel.app)
 
 
